@@ -1,3 +1,15 @@
 .main-menu_warning {
-  background-color:red;
+  background-color:rgb(236, 89, 40);
+}
+
+.main-menu_warning span.location-pinable-menu-text-container {
+  color:rgb(10, 10, 10);
+}
+
+.checkout-warning {
+  border:2px solid red;
+  padding:0.5em;
+  background-color: rgba(255, 0, 0, 0.1);
+  font-size: 1.3em;
+  color:black;
 }
